@@ -2,6 +2,8 @@
 
 <p>API de um chat em tempo real utilizando o conceito de WebSocket - Trilha NodeJS</p>
 
+<h2>Tecnologias utilizadas:</h2>
+
 <li>Express</li>
 <li>TypeORM para manipulação de Banco de Dados</li>
 <li>Sqlite3</li>
