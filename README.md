@@ -7,7 +7,7 @@
 <li>Express</li>
 <li>TypeORM para manipulação de Banco de Dados</li>
 <li>Sqlite3</li>
-<li>Socket-io</li>
+<li>Socket.io</li>
 
 <h2>Para rodar:</h2>
 
